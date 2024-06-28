@@ -2,7 +2,7 @@
  * @Author: Wanko
  * @Date: 2024-04-30 14:41:18
  * @LastEditors: Wanko
- * @LastEditTime: 2024-06-26 16:49:23
+ * @LastEditTime: 2024-06-28 10:44:42
  * @Description:
  */
 import { defineConfig } from 'vitepress'
@@ -10,7 +10,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base,
-  base:'/docs-demo/',
+  // base:'/docs-demo/',
   title: 'VitePress',
   description: 'VitePress | 由 Vite 和 Vue 驱动的静态站点生成器',
   lastUpdated: true,
